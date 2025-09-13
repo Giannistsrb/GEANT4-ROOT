@@ -1,8 +1,0 @@
-/home/jorbas/Geant4Simulations/Code_for_2.11MeV/build/CMakeFiles/exampleB1.dir
-/home/jorbas/Geant4Simulations/Code_for_2.11MeV/build/CMakeFiles/B1.dir
-/home/jorbas/Geant4Simulations/Code_for_2.11MeV/build/CMakeFiles/edit_cache.dir
-/home/jorbas/Geant4Simulations/Code_for_2.11MeV/build/CMakeFiles/rebuild_cache.dir
-/home/jorbas/Geant4Simulations/Code_for_2.11MeV/build/CMakeFiles/list_install_components.dir
-/home/jorbas/Geant4Simulations/Code_for_2.11MeV/build/CMakeFiles/install.dir
-/home/jorbas/Geant4Simulations/Code_for_2.11MeV/build/CMakeFiles/install/local.dir
-/home/jorbas/Geant4Simulations/Code_for_2.11MeV/build/CMakeFiles/install/strip.dir
