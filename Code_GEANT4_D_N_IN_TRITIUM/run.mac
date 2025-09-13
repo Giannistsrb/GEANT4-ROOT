@@ -1,0 +1,23 @@
+# Macro file for the simulation:
+
+/run/numberOfThreads 3
+
+/run/initialize
+
+/control/verbose 1
+/run/verbose 1
+
+/gps/particle deuteron
+/gps/ene/type Gauss
+/gps/ene/mono 2.8 MeV
+/gps/ene/sigma 2. keV
+/gps/pos/type Beam
+/gps/pos/centre 0. 0. -100. cm
+/gps/pos/sigma_r 1. mm
+/gps/ang/type beam1d
+/gps/ang/sigma_r .1 deg
+/gps/ang/rot1 1. 0. 0.
+/gps/ang/rot2 0. -1. 0.
+
+/run/printProgress 1000000
+/run/beamOn 15000000
